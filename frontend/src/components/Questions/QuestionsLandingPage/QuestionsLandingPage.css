@@ -34,26 +34,6 @@
     background-color: rgb(242, 242, 242);
 }
 
-/* .questionTileLeft {
-    align-self: center;
-    padding-left: 1vw;
-}
-
-
-
-.questionTileTitle {
-    text-align: center;
-    padding-bottom: 2px;
-    font-size:large;
-    font-weight: bold;
-}
-
-.questionTileDescription {
-    text-align: center;
-    text-decoration: none;
-    padding-bottom: 2px;
-} */
-
 .questionTileType {
     padding: 5px 10px;
     border-radius: 5px;
