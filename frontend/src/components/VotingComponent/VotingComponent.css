@@ -17,7 +17,6 @@
 
 .likeBtn {
     cursor: pointer;
-    /* width: 50%; */
     object-fit: cover;
     border-radius: 12px;
 }
